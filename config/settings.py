@@ -91,9 +91,9 @@ DATABASES = {
         'ENGINE': 'django.db.backends.mysql',
         'HOST':'shopingmall.chq2vp4ckg4t.ap-northeast-2.rds.amazonaws.com',
         'NAME':'shopingmall',
-        'USER':'gusrn8959',
-        'PASSWORD':'ehfksxm489',
-        'PORT':'3306',
+        'USER':'*',
+        'PASSWORD':'*',
+        'PORT':'*',
     }
 }
 
